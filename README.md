@@ -21,7 +21,7 @@ Ballots and voting devices are fundamental tools in the electoral process. Despi
 
 Description
 -----------
-This file contains the dataset and scripts necessary to replicate results reported in Alles, Barnes, and Tchintian, <i>The Representational Consequences of Electronic Voting Reform: Evidence from Argentina</i> (Cambridge University Press).
+This file contains the dataset and scripts necessary to replicate results reported in Alles, Barnes, and Tchintian, <i>The Representational Consequences of Electronic Voting Reform: Evidence from Argentina</i> (Cambridge University Press, 2023).
 
 This file additionally contains the book’s Online Appendix, and the data and scripts necessary to replicate results reported in the appendix.
 
