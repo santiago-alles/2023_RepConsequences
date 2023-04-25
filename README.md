@@ -1,6 +1,7 @@
 The Representational Consequences of Electronic Voting Reform: Evidence from Argentina
 ==============================================
-Cambridge University Press, 2023</br >
+<p><a href="https://www.cambridge.org/core/elements/abs/representational-consequences-of-electronic-voting-reform/628006060DA1BB228F79D8F1608FD525" title="The Representational Consequences of Electronic Voting Reform" target="_blank"><img align="right" src="https://www.dropbox.com/s/94zemfsaubsqnav/2023_ABT_bookCover.jpg?raw=1" style="width: 260px; padding-left: 15px;" /></a></p>
+<p>Cambridge University Press, 2023</br >
 DOI: 10.1017/9781108973960</br >
 ISBN: 9781108978293
 
